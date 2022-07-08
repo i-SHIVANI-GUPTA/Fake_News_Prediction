@@ -2,4 +2,4 @@
 
 Fake News Prediction System using Machine Learning with Python
 
-In this project,I have used various natural language processing techniques and machine learning algorithms to classify fake news articles using Logistic Regression model for prediction with accuracy.This Project is to solve the problem with fake news. In this I have used train.csv dataset named "Fake" and "True" from Kaggle.
+Implementation of various natural language processing techniques and machine learning algorithms to classify a news articles using Logistic Regression model.This Project is to solve the problem with fake news. In this I have downloaded train.csv dataset from Kaggle to classify a news as "Real" and "Fake".
